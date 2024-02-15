@@ -1,6 +1,12 @@
 [
-  "obsidian-git",
   "cm-editor-syntax-highlight-obsidian",
   "dataview",
-  "calendar"
+  "calendar",
+  "obsidian-git",
+  "url-into-selection",
+  "obsius-publish",
+  "obsidian-auto-link-title",
+  "recent-files-obsidian",
+  "obsidian-text-format",
+  "obsidian-hover-editor"
 ]

@@ -1,1 +1,10 @@
-{}
+{
+  "attachmentFolderPath": "Extras/Images",
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "focusNewTab": false,
+  "spellcheck": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "+ Encounters"
+}

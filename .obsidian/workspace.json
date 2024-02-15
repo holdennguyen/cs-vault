@@ -4,33 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7e2cb11f53d2b717",
+        "id": "ce7d61dc6ae68a91",
         "type": "tabs",
         "children": [
           {
-            "id": "0222912453b678da",
+            "id": "58153437c4853a2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
-                "mode": "source",
+                "file": "Cards/CS50x 2024 - Lecture 0.md",
+                "mode": "preview",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "0929bda0554f88ad",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ce100d724d29b393",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -78,12 +64,20 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "f8c69fcd8ce66b22",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 276.5110321044922
   },
   "right": {
     "id": "3160e78535ee0dd8",
@@ -92,6 +86,7 @@
       {
         "id": "f4af60a327c21668",
         "type": "tabs",
+        "dimension": 54.424778761061944,
         "children": [
           {
             "id": "9649a3c56e5d2169",
@@ -99,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Cards/CS50x 2024 - Lecture 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Cards/CS50x 2024 - Lecture 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Cards/CS50x 2024 - Lecture 0.md"
               }
             }
           },
@@ -150,13 +145,63 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "70e86feb466e336d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Cards/CS50x 2024 - Lecture 0.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224427,
+                  "close": true
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "5a9bdd89717ac93a",
+        "type": "tabs",
+        "dimension": 45.57522123893805,
+        "children": [
+          {
+            "id": "ca3acc715ef75708",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 549.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,10 +213,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0222912453b678da",
+  "active": "58153437c4853a2a",
   "lastOpenFiles": [
-    "cs-vault/LICENSE",
-    "cs-vault",
-    "Welcome.md"
+    "Atlas/Courses MOC.md",
+    "Cards/CS50x.md",
+    "Cards/CS50x 2024 - Lecture 0.md",
+    "Atlas/+ About Atlas.md",
+    "+ Encounters/0-255.md",
+    "Cards/MIDI.md",
+    "Extras/Images/cs50Week0Slide118.png",
+    "Extras/Images/cs50Week0Slide103.png",
+    "Extras/Images/cs50Week0Slide38.png",
+    "Extras/Images/cs50Week0Slide93.png",
+    "Sources/+ About Sources.md",
+    "Cards/+ About Cards.md",
+    "Sources/Videos",
+    "Sources/Articles",
+    "Sources/Books",
+    "Extras/Images/Pasted image 20240215235153.png",
+    "🏠 Home.md",
+    "Extras/+ About Extras.md",
+    "+ Encounters/EKS Terraform.md",
+    "Cards/Information that crosses our attentional filter becomes knowledge.md",
+    "+ Encounters/+ About Encounters.md",
+    "Sources",
+    "Cards",
+    "Computer Science.md",
+    "Extras/Templates",
+    "Extras/Images",
+    "+ Encounters",
+    "Atlas",
+    "Atlas/Courses"
   ]
 }

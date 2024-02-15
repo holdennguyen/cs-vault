@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "+ About Atlas",
+      "path": "Atlas/+ About Atlas.md"
+    },
+    {
       "basename": "CS50x 2024 - Lecture 0",
       "path": "Cards/CS50x 2024 - Lecture 0.md"
     },
@@ -25,20 +33,12 @@
       "path": "Cards/CS50x.md"
     },
     {
-      "basename": "🏠 Home",
-      "path": "🏠 Home.md"
-    },
-    {
       "basename": "+ About Extras",
       "path": "Extras/+ About Extras.md"
     },
     {
       "basename": "EKS Terraform",
       "path": "+ Encounters/EKS Terraform.md"
-    },
-    {
-      "basename": "+ About Atlas",
-      "path": "Atlas/+ About Atlas.md"
     },
     {
       "basename": "+ About Encounters",

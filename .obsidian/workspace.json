@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/CS50x 2024 - Lecture 0.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/CS50x 2024 - Lecture 0.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/CS50x 2024 - Lecture 0.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/CS50x 2024 - Lecture 0.md"
+                "file": "README.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cards/CS50x 2024 - Lecture 0.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -215,10 +215,11 @@
   },
   "active": "58153437c4853a2a",
   "lastOpenFiles": [
-    "Atlas/Courses MOC.md",
-    "Cards/CS50x.md",
-    "Cards/CS50x 2024 - Lecture 0.md",
     "Atlas/+ About Atlas.md",
+    "README.md",
+    "Atlas/Courses MOC.md",
+    "Cards/CS50x 2024 - Lecture 0.md",
+    "Cards/CS50x.md",
     "+ Encounters/0-255.md",
     "Cards/MIDI.md",
     "Extras/Images/cs50Week0Slide118.png",
@@ -231,7 +232,6 @@
     "Sources/Articles",
     "Sources/Books",
     "Extras/Images/Pasted image 20240215235153.png",
-    "🏠 Home.md",
     "Extras/+ About Extras.md",
     "+ Encounters/EKS Terraform.md",
     "Cards/Information that crosses our attentional filter becomes knowledge.md",

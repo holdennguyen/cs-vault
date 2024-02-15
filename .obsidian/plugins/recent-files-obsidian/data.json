@@ -5,16 +5,24 @@
       "path": "README.md"
     },
     {
+      "basename": "Courses MOC",
+      "path": "Atlas/Courses MOC.md"
+    },
+    {
+      "basename": "EKS Terraform",
+      "path": "+ Encounters/EKS Terraform.md"
+    },
+    {
+      "basename": "+ About Encounters",
+      "path": "+ Encounters/+ About Encounters.md"
+    },
+    {
       "basename": "+ About Atlas",
       "path": "Atlas/+ About Atlas.md"
     },
     {
       "basename": "CS50x 2024 - Lecture 0",
       "path": "Cards/CS50x 2024 - Lecture 0.md"
-    },
-    {
-      "basename": "Courses MOC",
-      "path": "Atlas/Courses MOC.md"
     },
     {
       "basename": "MIDI",
@@ -35,14 +43,6 @@
     {
       "basename": "+ About Extras",
       "path": "Extras/+ About Extras.md"
-    },
-    {
-      "basename": "EKS Terraform",
-      "path": "+ Encounters/EKS Terraform.md"
-    },
-    {
-      "basename": "+ About Encounters",
-      "path": "+ Encounters/+ About Encounters.md"
     }
   ],
   "omittedPaths": [],

@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -215,9 +215,11 @@
   },
   "active": "58153437c4853a2a",
   "lastOpenFiles": [
-    "Atlas/+ About Atlas.md",
-    "README.md",
     "Atlas/Courses MOC.md",
+    "+ Encounters/EKS Terraform.md",
+    "+ Encounters/+ About Encounters.md",
+    "README.md",
+    "Atlas/+ About Atlas.md",
     "Cards/CS50x 2024 - Lecture 0.md",
     "Cards/CS50x.md",
     "+ Encounters/0-255.md",
@@ -233,9 +235,7 @@
     "Sources/Books",
     "Extras/Images/Pasted image 20240215235153.png",
     "Extras/+ About Extras.md",
-    "+ Encounters/EKS Terraform.md",
     "Cards/Information that crosses our attentional filter becomes knowledge.md",
-    "+ Encounters/+ About Encounters.md",
     "Sources",
     "Cards",
     "Computer Science.md",

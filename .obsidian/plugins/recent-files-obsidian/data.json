@@ -1,36 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Monitor MongoDB performance",
+      "path": "Cards/DevOps MOC/Monitor MongoDB performance.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
+    },
+    {
+      "basename": "Datadog Agent",
+      "path": "Cards/DevOps MOC/Datadog Agent.md"
+    },
+    {
+      "basename": "DevOps MOC",
+      "path": "Atlas/DevOps MOC.md"
     },
     {
       "basename": "Courses MOC",
       "path": "Atlas/Courses MOC.md"
     },
     {
-      "basename": "EKS Terraform",
-      "path": "+ Encounters/EKS Terraform.md"
-    },
-    {
       "basename": "+ About Encounters",
       "path": "+ Encounters/+ About Encounters.md"
+    },
+    {
+      "basename": "CS50x 2024 - Lecture 0",
+      "path": "Cards/Course MOC/CS50x 2024 - Lecture 0.md"
+    },
+    {
+      "basename": "+ About Sources",
+      "path": "Sources/+ About Sources.md"
     },
     {
       "basename": "+ About Atlas",
       "path": "Atlas/+ About Atlas.md"
     },
     {
-      "basename": "CS50x 2024 - Lecture 0",
-      "path": "Cards/CS50x 2024 - Lecture 0.md"
-    },
-    {
       "basename": "MIDI",
       "path": "Cards/MIDI.md"
-    },
-    {
-      "basename": "+ About Sources",
-      "path": "Sources/+ About Sources.md"
     },
     {
       "basename": "+ About Cards",
@@ -38,7 +46,7 @@
     },
     {
       "basename": "CS50x",
-      "path": "Cards/CS50x.md"
+      "path": "Cards/Course MOC/CS50x.md"
     },
     {
       "basename": "+ About Extras",

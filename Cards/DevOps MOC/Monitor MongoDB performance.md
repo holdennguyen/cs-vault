@@ -29,4 +29,4 @@
 	- Truy cập vào platform Datadog.
 	- Ở thanh điều hướng bên trái, mở tab Infrastructure
 	- Chọn Infrastructure List, tìm hostname
-	  ![[Pasted image 20240216170320.png]]
+	  ![[datadog-infrastructure-list.png]]

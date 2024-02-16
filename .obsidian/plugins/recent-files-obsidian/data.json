@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "cs50Week0Slide38",
+      "path": "Extras/Images/cs50Week0Slide38.png"
+    },
+    {
+      "basename": "CS50x 2024 - Lecture 0",
+      "path": "Cards/Course MOC/CS50x 2024 - Lecture 0.md"
+    },
+    {
+      "basename": "cs50Week0Slide93",
+      "path": "Extras/Images/cs50Week0Slide93.png"
+    },
+    {
+      "basename": "cs50Week0Slide103",
+      "path": "Extras/Images/cs50Week0Slide103.png"
+    },
+    {
+      "basename": "cs50Week0Slide118",
+      "path": "Extras/Images/cs50Week0Slide118.png"
+    },
+    {
+      "basename": "datadog-infrastructure-list",
+      "path": "Extras/Images/datadog-infrastructure-list.png"
+    },
+    {
       "basename": "Monitor MongoDB performance",
       "path": "Cards/DevOps MOC/Monitor MongoDB performance.md"
     },
@@ -23,10 +47,6 @@
     {
       "basename": "+ About Encounters",
       "path": "+ Encounters/+ About Encounters.md"
-    },
-    {
-      "basename": "CS50x 2024 - Lecture 0",
-      "path": "Cards/Course MOC/CS50x 2024 - Lecture 0.md"
     },
     {
       "basename": "+ About Sources",

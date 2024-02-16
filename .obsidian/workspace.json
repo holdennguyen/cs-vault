@@ -11,11 +11,9 @@
             "id": "f6a69476d09bf23e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Cards/DevOps MOC/Monitor MongoDB performance.md",
-                "mode": "preview",
-                "source": false
+                "file": "Extras/Images/cs50Week0Slide38.png"
               }
             }
           }
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/DevOps MOC/Monitor MongoDB performance.md",
+                "file": "Extras/Images/cs50Week0Slide38.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/DevOps MOC/Monitor MongoDB performance.md",
+                "file": "Extras/Images/cs50Week0Slide38.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/DevOps MOC/Monitor MongoDB performance.md"
+                "file": "Extras/Images/cs50Week0Slide38.png"
               }
             }
           },
@@ -152,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cards/DevOps MOC/Monitor MongoDB performance.md",
+                "file": "Extras/Images/cs50Week0Slide38.png",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -201,7 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 771.5
+    "width": 652.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,13 +211,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6a69476d09bf23e",
+  "active": "242698a52aa417f7",
   "lastOpenFiles": [
-    "README.md",
+    "Cards/Course MOC/CS50x 2024 - Lecture 0.md",
+    "Extras/Images/cs50Week0Slide38.png",
+    "Extras/Images/cs50Week0Slide93.png",
+    "Extras/Images/cs50Week0Slide103.png",
+    "Extras/Images/cs50Week0Slide118.png",
+    "Extras/Images/datadog-infrastructure-list.png",
+    "Extras/Images/cs50-input-output.png",
     "Cards/DevOps MOC/Monitor MongoDB performance.md",
+    "README.md",
     "+ Encounters/Primary.md",
     "Cards/DevOps MOC/Datadog Agent.md",
-    "Extras/Images/Pasted image 20240216170320.png",
     "Atlas/DevOps MOC.md",
     "Cards/DevOps MOC",
     "Cards/Course MOC",
@@ -229,22 +233,16 @@
     "+ Encounters/OS.md",
     "+ Encounters/+ About Encounters.md",
     "+ Encounters/Windows], [[MacOS.md",
-    "Cards/Course MOC/CS50x 2024 - Lecture 0.md",
     "Sources/+ About Sources.md",
     "+ Encounters/EKS Terraform.md",
     "Atlas/+ About Atlas.md",
     "Cards/Course MOC/CS50x.md",
     "+ Encounters/0-255.md",
     "Cards/MIDI.md",
-    "Extras/Images/cs50Week0Slide118.png",
-    "Extras/Images/cs50Week0Slide103.png",
-    "Extras/Images/cs50Week0Slide38.png",
-    "Extras/Images/cs50Week0Slide93.png",
     "Cards/+ About Cards.md",
     "Sources/Videos",
     "Sources/Articles",
     "Sources/Books",
-    "Extras/Images/Pasted image 20240215235153.png",
     "Extras/+ About Extras.md",
     "Cards/Information that crosses our attentional filter becomes knowledge.md",
     "Sources",

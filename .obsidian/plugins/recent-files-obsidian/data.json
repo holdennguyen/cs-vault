@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "cs50Week0Slide38",
-      "path": "Extras/Images/cs50Week0Slide38.png"
-    },
-    {
       "basename": "CS50x 2024 - Lecture 0",
       "path": "Cards/Course MOC/CS50x 2024 - Lecture 0.md"
+    },
+    {
+      "basename": "CS50x",
+      "path": "Cards/Course MOC/CS50x.md"
+    },
+    {
+      "basename": "+ About Encounters",
+      "path": "+ Encounters/+ About Encounters.md"
+    },
+    {
+      "basename": "Datadog Agent",
+      "path": "Cards/DevOps MOC/Datadog Agent.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "+ About Atlas",
+      "path": "Atlas/+ About Atlas.md"
+    },
+    {
+      "basename": "cs50Week0Slide38",
+      "path": "Extras/Images/cs50Week0Slide38.png"
     },
     {
       "basename": "cs50Week0Slide93",
@@ -29,14 +49,6 @@
       "path": "Cards/DevOps MOC/Monitor MongoDB performance.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Datadog Agent",
-      "path": "Cards/DevOps MOC/Datadog Agent.md"
-    },
-    {
       "basename": "DevOps MOC",
       "path": "Atlas/DevOps MOC.md"
     },
@@ -45,16 +57,8 @@
       "path": "Atlas/Courses MOC.md"
     },
     {
-      "basename": "+ About Encounters",
-      "path": "+ Encounters/+ About Encounters.md"
-    },
-    {
       "basename": "+ About Sources",
       "path": "Sources/+ About Sources.md"
-    },
-    {
-      "basename": "+ About Atlas",
-      "path": "Atlas/+ About Atlas.md"
     },
     {
       "basename": "MIDI",
@@ -63,10 +67,6 @@
     {
       "basename": "+ About Cards",
       "path": "Cards/+ About Cards.md"
-    },
-    {
-      "basename": "CS50x",
-      "path": "Cards/Course MOC/CS50x.md"
     },
     {
       "basename": "+ About Extras",

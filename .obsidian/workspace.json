@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d66c5ddb2b291a9b",
+        "id": "f98259befdbe2a74",
         "type": "tabs",
         "children": [
           {
-            "id": "f6a69476d09bf23e",
+            "id": "64dd966ff9a3b749",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Extras/Images/cs50Week0Slide38.png"
+                "file": "Cards/Course MOC/CS50x 2024 - Lecture 0.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extras/Images/cs50Week0Slide38.png",
+                "file": "Cards/Course MOC/CS50x 2024 - Lecture 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extras/Images/cs50Week0Slide38.png",
+                "file": "Cards/Course MOC/CS50x 2024 - Lecture 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extras/Images/cs50Week0Slide38.png"
+                "file": "Cards/Course MOC/CS50x 2024 - Lecture 0.md"
               }
             }
           },
@@ -145,12 +147,12 @@
             }
           },
           {
-            "id": "70e86feb466e336d",
+            "id": "176afc6029276190",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Extras/Images/cs50Week0Slide38.png",
+                "file": "Cards/Course MOC/CS50x 2024 - Lecture 0.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -164,7 +166,7 @@
                   "collapse-color-groups": true,
                   "colorGroups": [],
                   "collapse-display": false,
-                  "showArrow": true,
+                  "showArrow": false,
                   "textFadeMultiplier": -1,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
@@ -173,10 +175,18 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5536053101682605,
+                  "scale": 0.5087618855792589,
                   "close": true
                 }
               }
+            }
+          },
+          {
+            "id": "71c4e76ac3ea0986",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
@@ -199,21 +209,38 @@
       }
     ],
     "direction": "horizontal",
-    "width": 652.5
+    "width": 398.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "242698a52aa417f7",
+  "active": "64dd966ff9a3b749",
   "lastOpenFiles": [
+    "Cards/Course MOC/CS50x.md",
     "Cards/Course MOC/CS50x 2024 - Lecture 0.md",
+    "+ Encounters/+ About Encounters.md",
+    "Cards/DevOps MOC/Datadog Agent.md",
+    "+ Encounters/Excalidraw/Drawing 2024-02-17 10.33.53.excalidraw.md",
+    "+ Encounters/Excalidraw/test.md",
+    "Extras/Images/Excalidraw/Drawing 2024-02-17 10.29.13.excalidraw.md",
+    "README.md",
+    "+ Encounters/Excalidraw",
+    "Excalidraw/Drawing 2024-02-17 10.21.31.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-17 10.18.31.excalidraw.md",
+    "Untitled.canvas",
+    "+ Encounters/Excalidraw",
+    "Untitled 1.canvas",
+    "Atlas/+ About Atlas.md",
+    "Atlas/Courses MOC.md",
     "Extras/Images/cs50Week0Slide38.png",
     "Extras/Images/cs50Week0Slide93.png",
     "Extras/Images/cs50Week0Slide103.png",
@@ -221,22 +248,16 @@
     "Extras/Images/datadog-infrastructure-list.png",
     "Extras/Images/cs50-input-output.png",
     "Cards/DevOps MOC/Monitor MongoDB performance.md",
-    "README.md",
     "+ Encounters/Primary.md",
-    "Cards/DevOps MOC/Datadog Agent.md",
     "Atlas/DevOps MOC.md",
     "Cards/DevOps MOC",
     "Cards/Course MOC",
-    "Atlas/Courses MOC.md",
     "Atlas/Monitoring.md",
     "Atlas/DevOps",
     "+ Encounters/OS.md",
-    "+ Encounters/+ About Encounters.md",
     "+ Encounters/Windows], [[MacOS.md",
     "Sources/+ About Sources.md",
     "+ Encounters/EKS Terraform.md",
-    "Atlas/+ About Atlas.md",
-    "Cards/Course MOC/CS50x.md",
     "+ Encounters/0-255.md",
     "Cards/MIDI.md",
     "Cards/+ About Cards.md",
@@ -247,8 +268,6 @@
     "Cards/Information that crosses our attentional filter becomes knowledge.md",
     "Sources",
     "Cards",
-    "Computer Science.md",
-    "Extras/Templates",
-    "Extras/Images"
+    "Computer Science.md"
   ]
 }

@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "+ About Cards",
+      "path": "Cards/+ About Cards.md"
+    },
+    {
+      "basename": "+ About Encounters",
+      "path": "+ Encounters/+ About Encounters.md"
+    },
+    {
+      "basename": "+ About Atlas",
+      "path": "Atlas/+ About Atlas.md"
+    },
+    {
       "basename": "CS50x 2024 - Lecture 0",
       "path": "Cards/Course MOC/CS50x 2024 - Lecture 0.md"
     },
@@ -9,20 +21,12 @@
       "path": "Cards/Course MOC/CS50x.md"
     },
     {
-      "basename": "+ About Encounters",
-      "path": "+ Encounters/+ About Encounters.md"
-    },
-    {
       "basename": "Datadog Agent",
       "path": "Cards/DevOps MOC/Datadog Agent.md"
     },
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "+ About Atlas",
-      "path": "Atlas/+ About Atlas.md"
     },
     {
       "basename": "cs50Week0Slide38",
@@ -63,10 +67,6 @@
     {
       "basename": "MIDI",
       "path": "Cards/MIDI.md"
-    },
-    {
-      "basename": "+ About Cards",
-      "path": "Cards/+ About Cards.md"
     },
     {
       "basename": "+ About Extras",

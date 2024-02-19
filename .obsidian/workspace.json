@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f98259befdbe2a74",
+        "id": "8a120412849a7154",
         "type": "tabs",
         "children": [
           {
-            "id": "64dd966ff9a3b749",
+            "id": "7ffc8172181af2b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/Course MOC/CS50x 2024 - Lecture 0.md",
+                "file": "Cards/+ About Cards.md",
                 "mode": "preview",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/Course MOC/CS50x 2024 - Lecture 0.md",
+                "file": "Cards/+ About Cards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/Course MOC/CS50x 2024 - Lecture 0.md",
+                "file": "Cards/+ About Cards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/Course MOC/CS50x 2024 - Lecture 0.md"
+                "file": "Cards/+ About Cards.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cards/Course MOC/CS50x 2024 - Lecture 0.md",
+                "file": "Cards/+ About Cards.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -175,7 +175,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5087618855792589,
+                  "scale": 0.5575444820959059,
                   "close": true
                 }
               }
@@ -209,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.5
+    "width": 398.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,11 +224,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "64dd966ff9a3b749",
+  "active": "7ffc8172181af2b1",
   "lastOpenFiles": [
-    "Cards/Course MOC/CS50x.md",
-    "Cards/Course MOC/CS50x 2024 - Lecture 0.md",
     "+ Encounters/+ About Encounters.md",
+    "Atlas/+ About Atlas.md",
+    "Cards/+ About Cards.md",
+    "Cards/Course MOC/CS50x 2024 - Lecture 0.md",
+    "+ Encounters/Máy tính.md",
+    "Extras/Images/cs50Week0Slide42.png",
+    "Extras/Images/cs50Week0Slide141 1.png",
+    "Extras/Images/cs50Week0Slide141.png",
+    "Cards/Course MOC/CS50x.md",
     "Cards/DevOps MOC/Datadog Agent.md",
     "+ Encounters/Excalidraw/Drawing 2024-02-17 10.33.53.excalidraw.md",
     "+ Encounters/Excalidraw/test.md",
@@ -239,7 +246,6 @@
     "Untitled.canvas",
     "+ Encounters/Excalidraw",
     "Untitled 1.canvas",
-    "Atlas/+ About Atlas.md",
     "Atlas/Courses MOC.md",
     "Extras/Images/cs50Week0Slide38.png",
     "Extras/Images/cs50Week0Slide93.png",
@@ -260,14 +266,12 @@
     "+ Encounters/EKS Terraform.md",
     "+ Encounters/0-255.md",
     "Cards/MIDI.md",
-    "Cards/+ About Cards.md",
     "Sources/Videos",
     "Sources/Articles",
     "Sources/Books",
     "Extras/+ About Extras.md",
     "Cards/Information that crosses our attentional filter becomes knowledge.md",
     "Sources",
-    "Cards",
-    "Computer Science.md"
+    "Cards"
   ]
 }

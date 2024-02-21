@@ -20,16 +20,17 @@
             }
           },
           {
-            "id": "96e9b623fc6873e0",
+            "id": "ffcb1f6a4993e74b",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "+ Encounters/Excalidraw/Drawing 2024-02-19 16.01.01.excalidraw.md"
+                "file": "+ Encounters/Excalidraw/Drawing 2024-02-20 20.50.30.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5110321044922
+    "width": 276.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "3160e78535ee0dd8",
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+ Encounters/Investigating MTLS API Outage with Errors 255, 404, & 429 for POST and GET Requests.md",
+                "file": "+ Encounters/Excalidraw/Drawing 2024-02-20 20.50.30.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+ Encounters/Investigating MTLS API Outage with Errors 255, 404, & 429 for POST and GET Requests.md",
+                "file": "+ Encounters/Excalidraw/Drawing 2024-02-20 20.50.30.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ Encounters/Investigating MTLS API Outage with Errors 255, 404, & 429 for POST and GET Requests.md"
+                "file": "+ Encounters/Excalidraw/Drawing 2024-02-20 20.50.30.excalidraw.md"
               }
             }
           },
@@ -162,7 +164,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+ Encounters/Investigating MTLS API Outage with Errors 255, 404, & 429 for POST and GET Requests.md",
+                "file": "+ Encounters/Excalidraw/Drawing 2024-02-20 20.50.30.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -233,10 +235,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "15f201dc800aef4c",
+  "active": "ffcb1f6a4993e74b",
   "lastOpenFiles": [
-    "+ Encounters/Excalidraw/Drawing 2024-02-19 16.01.01.excalidraw.md",
     "+ Encounters/Investigating MTLS API Outage with Errors 255, 404, & 429 for POST and GET Requests.md",
+    "+ Encounters/Excalidraw/Drawing 2024-02-20 20.50.30.excalidraw.md",
+    "Extras/Images/Pasted image 20240220134759.png",
+    "Extras/Images/Pasted image 20240220134247.png",
+    "+ Encounters/Excalidraw/Drawing 2024-02-19 16.01.01.excalidraw.md",
     "+ Encounters/Kỹ thuật lập trình.md",
     "Cards/+ About Cards.md",
     "+ Encounters/+ About Encounters.md",
@@ -264,7 +269,6 @@
     "Extras/Images/cs50Week0Slide103.png",
     "Extras/Images/cs50Week0Slide118.png",
     "Extras/Images/datadog-infrastructure-list.png",
-    "Extras/Images/cs50-input-output.png",
     "Cards/DevOps MOC/Monitor MongoDB performance.md",
     "+ Encounters/Primary.md",
     "Atlas/DevOps MOC.md",
@@ -276,7 +280,6 @@
     "+ Encounters/Windows], [[MacOS.md",
     "Sources/+ About Sources.md",
     "+ Encounters/EKS Terraform.md",
-    "+ Encounters/0-255.md",
     "Sources/Videos",
     "Sources/Articles",
     "Sources/Books",

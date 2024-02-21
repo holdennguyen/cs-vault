@@ -1,11 +1,21 @@
-## POST request status code 429
+## POST /v4/file
+***Timestamp**: 2/13/2024 5:56:00 PM - 2/14/2024 7:40:00 AM (2/14/2024 0:56:30 AM - 2/14/2024 2:05:00 PM)*
+***Total request:** 39,705 hits*
 
-- **Timestamp**: `2/13/2024 5:56:30 PM - 2/13/2024 10:11:12 PM (2/14/2024 0:56:30 AM - 2/14/2024 5:11:12 AM)`
-- **Statuscode**: `429`
-- **Rootcause**: Exceed apikey limit
+- ### Statuscode 429: 35,108 hits (~88%)
+	- Analysis: The spike of re
+	  Total request was spike ![[Pasted image 20240220134247.png]]
+	  Failed request with status code 429 follow up the spike and gone ![[Pasted image 20240220134759.png]]
+	- **Rootcause**: Exceed apikey limit
+	- **Detail**:
+		- What is the apikey limit?
+			- Which apikey are they using?
+			- Number of request by apikey.
+		- What is the nginx proxy limit?
 
-## POST request status code 408
+- ### Statuscode 499: 298 (~0.7%)
+	- **Rootcause**: 
 
-- **Timestamp**: `2/14/2024 7:04:10 AM - 2/14/2024 7:40:15 AM (2/14/2024 2:04:10 PM - 2/14/2024 2:40:15 PM)`
-- **Statuscode**: 408
-- **Rootcause**: 
+## GET request status code 404
+
+- Timestamp: 

@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bcad05288905e248",
+        "id": "1b3aee41182d9c0a",
         "type": "tabs",
         "children": [
           {
-            "id": "15f201dc800aef4c",
+            "id": "95bac0983eb9724e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ Encounters/Investigating MTLS API Outage with Errors 255, 404, & 429 for POST and GET Requests.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ffcb1f6a4993e74b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "+ Encounters/Excalidraw/Drawing 2024-02-20 20.50.30.excalidraw.md"
+                "file": "Cards/DevOps MOC/Monitor MongoDB performance.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5110321044922,
-    "collapsed": true
+    "width": 276.5110321044922
   },
   "right": {
     "id": "3160e78535ee0dd8",
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+ Encounters/Excalidraw/Drawing 2024-02-20 20.50.30.excalidraw.md",
+                "file": "Cards/DevOps MOC/Monitor MongoDB performance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+ Encounters/Excalidraw/Drawing 2024-02-20 20.50.30.excalidraw.md",
+                "file": "Cards/DevOps MOC/Monitor MongoDB performance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ Encounters/Excalidraw/Drawing 2024-02-20 20.50.30.excalidraw.md"
+                "file": "Cards/DevOps MOC/Monitor MongoDB performance.md"
               }
             }
           },
@@ -164,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+ Encounters/Excalidraw/Drawing 2024-02-20 20.50.30.excalidraw.md",
+                "file": "Cards/DevOps MOC/Monitor MongoDB performance.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -235,8 +223,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ffcb1f6a4993e74b",
+  "active": "95bac0983eb9724e",
   "lastOpenFiles": [
+    "Cards/DevOps MOC/Datadog Agent.md",
+    "Cards/DevOps MOC/Monitor MongoDB performance.md",
     "+ Encounters/Investigating MTLS API Outage with Errors 255, 404, & 429 for POST and GET Requests.md",
     "+ Encounters/Excalidraw/Drawing 2024-02-20 20.50.30.excalidraw.md",
     "Extras/Images/Pasted image 20240220134759.png",
@@ -252,7 +242,6 @@
     "Extras/Images/cs50Week0Slide141 1.png",
     "Extras/Images/cs50Week0Slide141.png",
     "Cards/Course MOC/CS50x.md",
-    "Cards/DevOps MOC/Datadog Agent.md",
     "+ Encounters/Excalidraw/Drawing 2024-02-17 10.33.53.excalidraw.md",
     "+ Encounters/Excalidraw/test.md",
     "Extras/Images/Excalidraw/Drawing 2024-02-17 10.29.13.excalidraw.md",
@@ -269,7 +258,6 @@
     "Extras/Images/cs50Week0Slide103.png",
     "Extras/Images/cs50Week0Slide118.png",
     "Extras/Images/datadog-infrastructure-list.png",
-    "Cards/DevOps MOC/Monitor MongoDB performance.md",
     "+ Encounters/Primary.md",
     "Atlas/DevOps MOC.md",
     "Cards/DevOps MOC",

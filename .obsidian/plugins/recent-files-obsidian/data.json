@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Drawing 2024-02-20 20.50.30.excalidraw",
-      "path": "+ Encounters/Excalidraw/Drawing 2024-02-20 20.50.30.excalidraw.md"
+      "basename": "Monitor MongoDB performance",
+      "path": "Cards/DevOps MOC/Monitor MongoDB performance.md"
+    },
+    {
+      "basename": "Datadog Agent",
+      "path": "Cards/DevOps MOC/Datadog Agent.md"
     },
     {
       "basename": "Investigating MTLS API Outage with Errors 255, 404, & 429 for POST and GET Requests",
       "path": "+ Encounters/Investigating MTLS API Outage with Errors 255, 404, & 429 for POST and GET Requests.md"
+    },
+    {
+      "basename": "Drawing 2024-02-20 20.50.30.excalidraw",
+      "path": "+ Encounters/Excalidraw/Drawing 2024-02-20 20.50.30.excalidraw.md"
     },
     {
       "basename": "Drawing 2024-02-19 16.01.01.excalidraw",
@@ -37,10 +45,6 @@
       "path": "Cards/Course MOC/CS50x.md"
     },
     {
-      "basename": "Datadog Agent",
-      "path": "Cards/DevOps MOC/Datadog Agent.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
     },
@@ -63,10 +67,6 @@
     {
       "basename": "datadog-infrastructure-list",
       "path": "Extras/Images/datadog-infrastructure-list.png"
-    },
-    {
-      "basename": "Monitor MongoDB performance",
-      "path": "Cards/DevOps MOC/Monitor MongoDB performance.md"
     },
     {
       "basename": "DevOps MOC",

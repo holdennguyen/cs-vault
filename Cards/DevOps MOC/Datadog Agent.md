@@ -14,6 +14,8 @@ DD_API_KEY=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX DD_SITE="datadoghq.com" DD_APM_INSTR
 > Kiểm tra phiên bản của Datadog Agent: `sudo datadog-agent version`
 > Kiểm tra phiên bản của hệ điều hành (OS - [[Operating System]]): `uname -a`
 
-Kiểm tra trạng thái của Datadog Agent sau khi cài đặt:
+### Kiểm tra trạng thái của Datadog Agent sau khi cài đặt:
+> Để biết OS đang sử dụng systemd hay sysvinit, chạy lệnh: `ps 1`
 - OS sử dụng [[sysvinit]]: `service datadog-agent status`
 - OS sử dụng [[systemd]]: `systemctl status datadog-agent`
+

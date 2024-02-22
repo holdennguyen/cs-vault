@@ -5,7 +5,7 @@
 	# Create the user for the Datadog Agent. 
 	  db.createUser({
 		  "user": "datadog",
-		  "pwd": "<UNIQUEPASSWORD>",
+		  "pwd": "<YOUR PASSWORD>",
 		  "roles": [
 			  { role: "read", db: "admin" },
 			  { role: "clusterMonitor", db: "admin" },
@@ -14,7 +14,7 @@
 	  })
 	```
 - [[Datadog Agent#Cài đặt Datadog Agent trên Amazon Linux]] trên tất cả các host thuộc MongoDB replica set và thiết lập Agent connect tới [[replica]] trên host đó. *(Chạy Agent trên từng host giúp giảm độ trễ , tăng tốc độ xử lý và duy trì data kể cả khi host xảy ra lỗi)*
-  Sửa file `/etc/datadog-agent/mongo.d/config.d` 
+  Duplicate file `/etc/datadog-agent/config.d/mongo.d/conf.yaml.example` và đổi tên thành `conf.yaml`, cập nhật các dòng dưới đây:
     ```
     init_config:
     instances:
@@ -24,7 +24,12 @@
 	    password: <YOUR PASSWORD>
 	    database: admin
     ```
-    Restart Datadog Agent.
+
+- Thiết lập hostname hiển thị trên nền tảng Datadog bằng cách cập nhật trong file `/etc/datadog-agent/datadog.yaml`:
+  ```
+  hostname: <YOUR MONGODB REPLICA HOSTNAME>
+  ```
+- Restart Datadog Agent.
 - Kiểm tra xem host đã được monitor bởi Datadog hay chưa sau khi Agent hoạt động:
 	- Truy cập vào platform Datadog.
 	- Ở thanh điều hướng bên trái, mở tab Infrastructure

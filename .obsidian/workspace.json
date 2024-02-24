@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/DevOps MOC/Monitor MongoDB performance.md",
-                "mode": "preview",
-                "source": true
+                "file": "+ Encounters/Menlo sanitize file alerts on Feb 19th, 2024.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5110321044922
+    "width": 276.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "3160e78535ee0dd8",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/DevOps MOC/Monitor MongoDB performance.md",
+                "file": "+ Encounters/Menlo sanitize file alerts on Feb 19th, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/DevOps MOC/Monitor MongoDB performance.md",
+                "file": "+ Encounters/Menlo sanitize file alerts on Feb 19th, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/DevOps MOC/Monitor MongoDB performance.md"
+                "file": "+ Encounters/Menlo sanitize file alerts on Feb 19th, 2024.md"
               }
             }
           },
@@ -152,7 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cards/DevOps MOC/Monitor MongoDB performance.md",
+                "file": "+ Encounters/Menlo sanitize file alerts on Feb 19th, 2024.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -190,7 +191,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "5a9bdd89717ac93a",
@@ -225,13 +226,14 @@
   },
   "active": "95bac0983eb9724e",
   "lastOpenFiles": [
-    "Cards/DevOps MOC/Datadog Agent.md",
-    "Cards/DevOps MOC/Monitor MongoDB performance.md",
-    "+ Encounters/Investigating MTLS API Outage with Errors 255, 404, & 429 for POST and GET Requests.md",
+    "+ Encounters/Menlo sanitize file alerts on Feb 19th, 2024.md",
+    "+ Encounters/Excalidraw/Drawing 2024-02-19 16.01.01.excalidraw.md",
     "+ Encounters/Excalidraw/Drawing 2024-02-20 20.50.30.excalidraw.md",
+    "Cards/DevOps MOC/Monitor MongoDB performance.md",
+    "Cards/DevOps MOC/Datadog Agent.md",
+    "+ Encounters/Investigating MTLS API Outage with Errors 255, 404, & 429 for POST and GET Requests.md",
     "Extras/Images/Pasted image 20240220134759.png",
     "Extras/Images/Pasted image 20240220134247.png",
-    "+ Encounters/Excalidraw/Drawing 2024-02-19 16.01.01.excalidraw.md",
     "+ Encounters/Kỹ thuật lập trình.md",
     "Cards/+ About Cards.md",
     "+ Encounters/+ About Encounters.md",
@@ -267,7 +269,6 @@
     "+ Encounters/OS.md",
     "+ Encounters/Windows], [[MacOS.md",
     "Sources/+ About Sources.md",
-    "+ Encounters/EKS Terraform.md",
     "Sources/Videos",
     "Sources/Articles",
     "Sources/Books",

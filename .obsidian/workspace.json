@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1b3aee41182d9c0a",
+        "id": "2a04f0fdb5353c1c",
         "type": "tabs",
         "children": [
           {
-            "id": "95bac0983eb9724e",
+            "id": "a7655d6e18cc9c5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ Encounters/Menlo sanitize file alerts on Feb 19th, 2024.md",
+                "file": "+ Encounters/IOStream.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+ Encounters/Menlo sanitize file alerts on Feb 19th, 2024.md",
+                "file": "+ Encounters/IOStream.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+ Encounters/Menlo sanitize file alerts on Feb 19th, 2024.md",
+                "file": "+ Encounters/IOStream.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ Encounters/Menlo sanitize file alerts on Feb 19th, 2024.md"
+                "file": "+ Encounters/IOStream.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+ Encounters/Menlo sanitize file alerts on Feb 19th, 2024.md",
+                "file": "+ Encounters/IOStream.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "5a9bdd89717ac93a",
@@ -210,8 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.5,
-    "collapsed": true
+    "width": 235.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,8 +223,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "95bac0983eb9724e",
+  "active": "a7655d6e18cc9c5e",
   "lastOpenFiles": [
+    "+ Encounters/Kỹ thuật lập trình.md",
+    "+ Encounters/IOStream.md",
     "+ Encounters/Menlo sanitize file alerts on Feb 19th, 2024.md",
     "+ Encounters/Excalidraw/Drawing 2024-02-19 16.01.01.excalidraw.md",
     "+ Encounters/Excalidraw/Drawing 2024-02-20 20.50.30.excalidraw.md",
@@ -234,7 +235,6 @@
     "+ Encounters/Investigating MTLS API Outage with Errors 255, 404, & 429 for POST and GET Requests.md",
     "Extras/Images/Pasted image 20240220134759.png",
     "Extras/Images/Pasted image 20240220134247.png",
-    "+ Encounters/Kỹ thuật lập trình.md",
     "Cards/+ About Cards.md",
     "+ Encounters/+ About Encounters.md",
     "Atlas/+ About Atlas.md",
@@ -268,7 +268,6 @@
     "Atlas/DevOps",
     "+ Encounters/OS.md",
     "+ Encounters/Windows], [[MacOS.md",
-    "Sources/+ About Sources.md",
     "Sources/Videos",
     "Sources/Articles",
     "Sources/Books",

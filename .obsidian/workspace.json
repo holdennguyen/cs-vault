@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2a04f0fdb5353c1c",
+        "id": "8731159e9de704df",
         "type": "tabs",
         "children": [
           {
-            "id": "a7655d6e18cc9c5e",
+            "id": "37bac46d398f1ae7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ Encounters/IOStream.md",
+                "file": "+ Encounters/Giới hạn hàm số - lim.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5110321044922,
-    "collapsed": true
+    "width": 276.5110321044922
   },
   "right": {
     "id": "3160e78535ee0dd8",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+ Encounters/IOStream.md",
+                "file": "+ Encounters/Giới hạn hàm số - lim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+ Encounters/IOStream.md",
+                "file": "+ Encounters/Giới hạn hàm số - lim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ Encounters/IOStream.md"
+                "file": "+ Encounters/Giới hạn hàm số - lim.md"
               }
             }
           },
@@ -153,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+ Encounters/IOStream.md",
+                "file": "+ Encounters/Giới hạn hàm số - lim.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -223,10 +222,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a7655d6e18cc9c5e",
+  "active": "37bac46d398f1ae7",
   "lastOpenFiles": [
-    "+ Encounters/Kỹ thuật lập trình.md",
+    "Extras/Images/Pasted image 20240228121101.png",
+    "Extras/Images/Pasted image 20240228121017.png",
+    "Extras/Images/Pasted image 20240228120704.png",
+    "Extras/Images/Pasted image 20240228120452.png",
+    "Extras/Images/Pasted image 20240228120422.png",
+    "Extras/Images/Pasted image 20240228120354.png",
+    "Extras/Images/Pasted image 20240228120319.png",
+    "+ Encounters/Toán Cao Cấp.md",
+    "+ Encounters/Giới hạn hàm số - lim.md",
     "+ Encounters/IOStream.md",
+    "+ Encounters/Kỹ thuật lập trình.md",
     "+ Encounters/Menlo sanitize file alerts on Feb 19th, 2024.md",
     "+ Encounters/Excalidraw/Drawing 2024-02-19 16.01.01.excalidraw.md",
     "+ Encounters/Excalidraw/Drawing 2024-02-20 20.50.30.excalidraw.md",
@@ -242,7 +250,6 @@
     "+ Encounters/Máy tính.md",
     "Extras/Images/cs50Week0Slide42.png",
     "Extras/Images/cs50Week0Slide141 1.png",
-    "Extras/Images/cs50Week0Slide141.png",
     "Cards/Course MOC/CS50x.md",
     "+ Encounters/Excalidraw/Drawing 2024-02-17 10.33.53.excalidraw.md",
     "+ Encounters/Excalidraw/test.md",
@@ -255,19 +262,11 @@
     "+ Encounters/Excalidraw",
     "Untitled 1.canvas",
     "Atlas/Courses MOC.md",
-    "Extras/Images/cs50Week0Slide38.png",
-    "Extras/Images/cs50Week0Slide93.png",
-    "Extras/Images/cs50Week0Slide103.png",
-    "Extras/Images/cs50Week0Slide118.png",
-    "Extras/Images/datadog-infrastructure-list.png",
     "+ Encounters/Primary.md",
     "Atlas/DevOps MOC.md",
     "Cards/DevOps MOC",
     "Cards/Course MOC",
-    "Atlas/Monitoring.md",
     "Atlas/DevOps",
-    "+ Encounters/OS.md",
-    "+ Encounters/Windows], [[MacOS.md",
     "Sources/Videos",
     "Sources/Articles",
     "Sources/Books",

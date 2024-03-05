@@ -1,0 +1,274 @@
+{
+  "main": {
+    "id": "63171080b4041fba",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a6a6219867206ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3518403cbefeeeb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "+ Encounters/Excalidraw/Drawing 2024-03-05 13.31.49.excalidraw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a9b1c1742735c726",
+    "type": "split",
+    "children": [
+      {
+        "id": "603f50b8590a35e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "242698a52aa417f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f0abbeec26b5ee22",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "05fa3da8aa93d521",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "f8c69fcd8ce66b22",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 276.5110321044922
+  },
+  "right": {
+    "id": "3160e78535ee0dd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4af60a327c21668",
+        "type": "tabs",
+        "dimension": 67.61061946902655,
+        "children": [
+          {
+            "id": "9649a3c56e5d2169",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "+ Encounters/Excalidraw/Drawing 2024-03-05 13.31.49.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "31f7a2a38871f986",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "+ Encounters/Excalidraw/Drawing 2024-03-05 13.31.49.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a56491542d62bf5c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ad13cc64b6e3664a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "+ Encounters/Excalidraw/Drawing 2024-03-05 13.31.49.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "51d576050890e333",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "176afc6029276190",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "+ Encounters/Excalidraw/Drawing 2024-03-05 13.31.49.excalidraw.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -1,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5575444820959059,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "71c4e76ac3ea0986",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "5a9bdd89717ac93a",
+        "type": "tabs",
+        "dimension": 32.38938053097345,
+        "children": [
+          {
+            "id": "ca3acc715ef75708",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 235.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "e3518403cbefeeeb",
+  "lastOpenFiles": [
+    "+ Encounters/Excalidraw/Drawing 2024-02-20 20.50.30.excalidraw.md",
+    "+ Encounters/IaC and Secrets.md",
+    "+ Encounters/Excalidraw/Drawing 2024-03-05 13.31.49.excalidraw.md",
+    "+ Encounters/Inter Process Communication (IPC).md",
+    "Extras/Images/Pasted image 20240304135743.png",
+    "+ Encounters/Networking.md",
+    "+ Encounters/Giới hạn hàm số - lim.md",
+    "Extras/Images/Pasted image 20240228121101.png",
+    "Extras/Images/Pasted image 20240228121017.png",
+    "Extras/Images/Pasted image 20240228120704.png",
+    "Extras/Images/Pasted image 20240228120452.png",
+    "Extras/Images/Pasted image 20240228120422.png",
+    "Extras/Images/Pasted image 20240228120354.png",
+    "Extras/Images/Pasted image 20240228120319.png",
+    "+ Encounters/Toán Cao Cấp.md",
+    "+ Encounters/IOStream.md",
+    "+ Encounters/Kỹ thuật lập trình.md",
+    "+ Encounters/Menlo sanitize file alerts on Feb 19th, 2024.md",
+    "+ Encounters/Excalidraw/Drawing 2024-02-19 16.01.01.excalidraw.md",
+    "Cards/DevOps MOC/Monitor MongoDB performance.md",
+    "Cards/DevOps MOC/Datadog Agent.md",
+    "+ Encounters/Investigating MTLS API Outage with Errors 255, 404, & 429 for POST and GET Requests.md",
+    "Extras/Images/Pasted image 20240220134759.png",
+    "Extras/Images/Pasted image 20240220134247.png",
+    "Cards/+ About Cards.md",
+    "+ Encounters/+ About Encounters.md",
+    "Atlas/+ About Atlas.md",
+    "Cards/Course MOC/CS50x 2024 - Lecture 0.md",
+    "+ Encounters/Máy tính.md",
+    "Cards/Course MOC/CS50x.md",
+    "+ Encounters/Excalidraw/Drawing 2024-02-17 10.33.53.excalidraw.md",
+    "+ Encounters/Excalidraw/test.md",
+    "Extras/Images/Excalidraw/Drawing 2024-02-17 10.29.13.excalidraw.md",
+    "README.md",
+    "+ Encounters/Excalidraw",
+    "Excalidraw/Drawing 2024-02-17 10.21.31.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-17 10.18.31.excalidraw.md",
+    "Untitled.canvas",
+    "+ Encounters/Excalidraw",
+    "Untitled 1.canvas",
+    "Cards/DevOps MOC",
+    "Cards/Course MOC",
+    "Atlas/DevOps",
+    "Sources/Videos",
+    "Sources/Articles",
+    "Sources/Books",
+    "Sources",
+    "Cards"
+  ]
+}

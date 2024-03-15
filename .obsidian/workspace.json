@@ -11,9 +11,11 @@
             "id": "e3518403cbefeeeb",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "+ Encounters/Excalidraw/Drawing 2024-03-05 13.31.49.excalidraw.md"
+                "file": "+ Encounters/Kỹ thuật lập trình.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+ Encounters/Excalidraw/Drawing 2024-03-05 13.31.49.excalidraw.md",
+                "file": "+ Encounters/Kỹ thuật lập trình.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+ Encounters/Excalidraw/Drawing 2024-03-05 13.31.49.excalidraw.md",
+                "file": "+ Encounters/Kỹ thuật lập trình.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ Encounters/Excalidraw/Drawing 2024-03-05 13.31.49.excalidraw.md"
+                "file": "+ Encounters/Kỹ thuật lập trình.md"
               }
             }
           },
@@ -150,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+ Encounters/Excalidraw/Drawing 2024-03-05 13.31.49.excalidraw.md",
+                "file": "+ Encounters/Kỹ thuật lập trình.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -222,9 +224,9 @@
   },
   "active": "e3518403cbefeeeb",
   "lastOpenFiles": [
+    "+ Encounters/Excalidraw/Drawing 2024-03-05 13.31.49.excalidraw.md",
     "+ Encounters/Excalidraw/Drawing 2024-02-20 20.50.30.excalidraw.md",
     "+ Encounters/IaC and Secrets.md",
-    "+ Encounters/Excalidraw/Drawing 2024-03-05 13.31.49.excalidraw.md",
     "+ Encounters/Inter Process Communication (IPC).md",
     "Extras/Images/Pasted image 20240304135743.png",
     "+ Encounters/Networking.md",

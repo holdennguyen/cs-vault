@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Drawing 2024-03-20 00.20.39.excalidraw",
-      "path": "+ Encounters/Excalidraw/Drawing 2024-03-20 00.20.39.excalidraw.md"
+      "basename": "Monitor MongoDB performance",
+      "path": "Cards/DevOps MOC/Monitor MongoDB performance.md"
+    },
+    {
+      "basename": "Datadog Agent",
+      "path": "Cards/DevOps MOC/Datadog Agent.md"
+    },
+    {
+      "basename": "DevOps MOC",
+      "path": "Atlas/DevOps MOC.md"
     },
     {
       "basename": "appsec-sre-monitoring",
       "path": "+ Encounters/appsec-sre-monitoring.md"
+    },
+    {
+      "basename": "+ About Encounters",
+      "path": "+ Encounters/+ About Encounters.md"
+    },
+    {
+      "basename": "Drawing 2024-03-20 00.20.39.excalidraw",
+      "path": "+ Encounters/Excalidraw/Drawing 2024-03-20 00.20.39.excalidraw.md"
     },
     {
       "basename": "Kỹ thuật lập trình",
@@ -49,24 +65,12 @@
       "path": "+ Encounters/Menlo sanitize file alerts on Feb 19th, 2024.md"
     },
     {
-      "basename": "Monitor MongoDB performance",
-      "path": "Cards/DevOps MOC/Monitor MongoDB performance.md"
-    },
-    {
-      "basename": "Datadog Agent",
-      "path": "Cards/DevOps MOC/Datadog Agent.md"
-    },
-    {
       "basename": "Investigating MTLS API Outage with Errors 255, 404, & 429 for POST and GET Requests",
       "path": "+ Encounters/Investigating MTLS API Outage with Errors 255, 404, & 429 for POST and GET Requests.md"
     },
     {
       "basename": "+ About Cards",
       "path": "Cards/+ About Cards.md"
-    },
-    {
-      "basename": "+ About Encounters",
-      "path": "+ Encounters/+ About Encounters.md"
     },
     {
       "basename": "+ About Atlas",
@@ -103,10 +107,6 @@
     {
       "basename": "datadog-infrastructure-list",
       "path": "Extras/Images/datadog-infrastructure-list.png"
-    },
-    {
-      "basename": "DevOps MOC",
-      "path": "Atlas/DevOps MOC.md"
     },
     {
       "basename": "Courses MOC",

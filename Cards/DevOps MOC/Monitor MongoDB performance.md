@@ -14,7 +14,7 @@
 	  })
 	```
 - [[Datadog Agent#Cài đặt Datadog Agent trên Amazon Linux]] trên tất cả các host thuộc MongoDB replica set và thiết lập Agent connect tới [[replica]] trên host đó. *(Chạy Agent trên từng host giúp giảm độ trễ , tăng tốc độ xử lý và duy trì data kể cả khi host xảy ra lỗi)*
-  Duplicate file `/etc/datadog-agent/config.d/mongo.d/conf.yaml.example` và đổi tên thành `conf.yaml`, cập nhật các dòng dưới đây:
+  Duplicate file `/etc/datadog-agent/conf.d/mongo.d/conf.yaml.example` và đổi tên thành `conf.yaml`, cập nhật các dòng dưới đây:
     ```
     init_config:
     instances:

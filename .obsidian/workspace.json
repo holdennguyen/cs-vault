@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "fd80cfdf7fbe60e4",
+        "id": "8ea66b796fcd3cf9",
         "type": "tabs",
         "children": [
           {
-            "id": "f00cabab34b25daf",
+            "id": "55425cd07e5d3c32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/DevOps MOC/Monitor MongoDB performance.md",
-                "mode": "preview",
+                "file": "+ Encounters/MongoDB incident April 3rd.md",
+                "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "30d7182ef69bca4f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/DevOps MOC/Monitor MongoDB performance.md",
+                "file": "+ Encounters/MongoDB incident April 3rd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/DevOps MOC/Monitor MongoDB performance.md",
+                "file": "+ Encounters/MongoDB incident April 3rd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/DevOps MOC/Monitor MongoDB performance.md"
+                "file": "+ Encounters/MongoDB incident April 3rd.md"
               }
             }
           },
@@ -153,7 +164,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cards/DevOps MOC/Monitor MongoDB performance.md",
+                "file": "+ Encounters/MongoDB incident April 3rd.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -224,10 +235,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f00cabab34b25daf",
+  "active": "30d7182ef69bca4f",
   "lastOpenFiles": [
-    "Cards/DevOps MOC/Datadog Agent.md",
+    "+ Encounters/MongoDB incident April 3rd.md",
     "Cards/DevOps MOC/Monitor MongoDB performance.md",
+    "Cards/DevOps MOC/Datadog Agent.md",
     "Atlas/DevOps MOC.md",
     "+ Encounters/appsec-sre-monitoring.md",
     "+ Encounters/+ About Encounters.md",
@@ -261,7 +273,6 @@
     "Cards/Course MOC/CS50x.md",
     "+ Encounters/Excalidraw/Drawing 2024-02-17 10.33.53.excalidraw.md",
     "+ Encounters/Excalidraw/test.md",
-    "Extras/Images/Excalidraw/Drawing 2024-02-17 10.29.13.excalidraw.md",
     "+ Encounters/Excalidraw",
     "Untitled.canvas",
     "+ Encounters/Excalidraw",

@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8ea66b796fcd3cf9",
+        "id": "090d3623e7809f08",
         "type": "tabs",
         "children": [
           {
-            "id": "55425cd07e5d3c32",
+            "id": "6933e5af1b7c584b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+ Encounters/MongoDB incident April 3rd.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30d7182ef69bca4f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5110321044922,
-    "collapsed": true
+    "width": 276.5110321044922
   },
   "right": {
     "id": "3160e78535ee0dd8",
@@ -106,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+ Encounters/MongoDB incident April 3rd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+ Encounters/MongoDB incident April 3rd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "+ Encounters/MongoDB incident April 3rd.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,7 +144,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+ Encounters/MongoDB incident April 3rd.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -235,8 +214,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "30d7182ef69bca4f",
+  "active": "242698a52aa417f7",
   "lastOpenFiles": [
+    "+ Encounters/MDCloudAPI - Bulk Scanning.md",
     "+ Encounters/MongoDB incident April 3rd.md",
     "Cards/DevOps MOC/Monitor MongoDB performance.md",
     "Cards/DevOps MOC/Datadog Agent.md",
@@ -272,7 +252,6 @@
     "+ Encounters/Máy tính.md",
     "Cards/Course MOC/CS50x.md",
     "+ Encounters/Excalidraw/Drawing 2024-02-17 10.33.53.excalidraw.md",
-    "+ Encounters/Excalidraw/test.md",
     "+ Encounters/Excalidraw",
     "Untitled.canvas",
     "+ Encounters/Excalidraw",

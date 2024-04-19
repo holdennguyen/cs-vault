@@ -11,8 +11,10 @@
             "id": "6933e5af1b7c584b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "+ Encounters/Excalidraw/Drawing 2024-04-17 17.07.54.excalidraw.md"
+              }
             }
           }
         ]
@@ -90,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "+ Encounters/Excalidraw/Drawing 2024-04-17 17.07.54.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "+ Encounters/Excalidraw/Drawing 2024-04-17 17.07.54.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "+ Encounters/Excalidraw/Drawing 2024-04-17 17.07.54.excalidraw.md"
+              }
             }
           },
           {
@@ -144,6 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "+ Encounters/Excalidraw/Drawing 2024-04-17 17.07.54.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -214,8 +221,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "242698a52aa417f7",
+  "active": "6933e5af1b7c584b",
   "lastOpenFiles": [
+    "+ Encounters/Excalidraw/Drawing 2024-04-17 17.07.54.excalidraw.md",
     "+ Encounters/MDCloudAPI - Bulk Scanning.md",
     "+ Encounters/MongoDB incident April 3rd.md",
     "Cards/DevOps MOC/Monitor MongoDB performance.md",
@@ -251,7 +259,6 @@
     "Cards/Course MOC/CS50x 2024 - Lecture 0.md",
     "+ Encounters/Máy tính.md",
     "Cards/Course MOC/CS50x.md",
-    "+ Encounters/Excalidraw/Drawing 2024-02-17 10.33.53.excalidraw.md",
     "+ Encounters/Excalidraw",
     "Untitled.canvas",
     "+ Encounters/Excalidraw",
